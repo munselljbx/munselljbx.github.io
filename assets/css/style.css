@@ -81,3 +81,5 @@ h6 { font-size: .6rem; }
 .pan-layout-left__social ul > li { padding-right: 6px; }
 
 iframe { height: 80%; width: 100%; }
+
+#paper_iframe { height: 93%; }
